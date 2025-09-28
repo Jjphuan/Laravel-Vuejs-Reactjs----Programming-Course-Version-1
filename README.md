@@ -3,4 +3,5 @@
 Preview ( Source code in private repository)
 
 <h1>Main Page</h1>
-![Recording 2025-09-28 233732](https://github.com/user-attachments/assets/dd512821-cce1-4813-8926-fcbabf62a718)
+[Recording 2025-09-28 234322](https://github.com/user-attachments/assets/dae0a80c-6c6a-4b7f-afc7-f066d7fe25b0)
+<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"/>
